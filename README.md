@@ -8,3 +8,6 @@
 
 ## Video
 * [Ariya Hidayat. JavaScript and the Browser: Under the Hood](https://www.youtube.com/watch?v=dibzLw4wPms)
+
+## Instruments
+* [metajs: visualize javascript AST execution](http://int3.github.io/metajs/)
