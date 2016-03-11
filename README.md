@@ -11,3 +11,7 @@
 
 ## Instruments
 * [metajs: visualize javascript AST execution](http://int3.github.io/metajs/)
+
+## Workshops
+* [Fluent Conference 2016 Web Cryptography Workshop](https://github.com/engelke/fluent2016)
+
