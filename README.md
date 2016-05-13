@@ -6,6 +6,7 @@
 ## Resources
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [Let’s Learn JavaScript Closures](https://medium.freecodecamp.com/lets-learn-javascript-closures-66feb44f6a44)
+* [Simplified JavaScript Jargon](http://jargon.js.org/)
 
 ## Video
 * [Ariya Hidayat. JavaScript and the Browser: Under the Hood](https://www.youtube.com/watch?v=dibzLw4wPms)
